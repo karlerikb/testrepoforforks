@@ -1,5 +1,5 @@
 /* uus peatykk asjadega
 
-palju koodi...
+teistsugune kood...
 
 */
